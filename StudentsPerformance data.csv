@@ -1,0 +1,12 @@
+column name ,type,meaning
+gender,category,student's gender
+race/ethnicity,Category,Student's group
+,,
+parental level of education,Category,Parent's highest education level
+lunch,Category,Standard or free/reduced lunch
+test preparation course,Category,Completed or none
+math score,Number,"Math exam score, 0–100"
+reading score,Number,"Reading exam score, 0–100"
+writing score,Number,"Writing exam score, 0–100"
+,,
+,,
